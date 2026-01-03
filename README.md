@@ -1,5 +1,5 @@
 # Banco Digital - Projeto
-## Versão atual: v1.2
+## Versão atual: v1.2.8
 
 **Desenvolvedor:** Sérgio Lima (14 anos)  
 **Tecnologia:** Python 3.6.8  
@@ -8,13 +8,6 @@
 ### Sobre o Projeto
 Sistema bancário simulado, Desenvolvido para práticar os conceitos de programação
 e construir um portfólio técnico . Criado inteiramente com conhecimentos básicos de Python
-
-### Funcionalidades v1.2
-- [x] Interface premium de 13 linhas fixas
-- [x] Alinhamento dinâmico (nomes longos/curtos)  
-- [x] Sistema completo de login/cadastro
-- [x] Opções de saída em todas as telas
-- [ ] Modo Visitante (em desenvolvimento)
 
 ### Próximas Versões
 - **v1.3:** Sistema de recuperação de senha (Email, SMS, Código)
